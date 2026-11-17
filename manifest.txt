@@ -1,9 +1,10 @@
-spiel_version 0.3.3
+spiel_version 0.4.0
 launcher_version 1.0.0
-launcher Wingtale-Launcher.exe 97bf340316fb72a7178587ac51236dae040829d460cf82680a8f1ad9b6948176 2345472 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.3.3/Wingtale-Launcher.exe
-datei Wingtale.exe e4d62f7170d9c8c19aabc14cfad00086e94163a82987378a3f0d18fc9bf824a1 2554880 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.3.3/Wingtale.exe
-datei hintergrund.png 59ac3dd30cc45a587fd20412901cd378e2766726cd5bafa1ce0b64d474253555 219128 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.3.3/hintergrund.png
-datei LIZENZEN.txt 0187119fd6d13a241a2b355a9160b3f1d48779ae3bb7d9380196a0ffe9d49a0f 181 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.3.3/LIZENZEN.txt
+launcher Wingtale-Launcher.exe 6162c13ea674de44fc08723523d1bdb3f4a996002e55da0197af3352d20144f7 2345472 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.4.0/Wingtale-Launcher.exe
+datei Wingtale.exe 5e9eb2268029d78046129466c338b179a5f36af43abfd62b68b42bb9443b4d35 2585600 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.4.0/Wingtale.exe
+datei hintergrund.png 59ac3dd30cc45a587fd20412901cd378e2766726cd5bafa1ce0b64d474253555 219128 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.4.0/hintergrund.png
+datei LIZENZEN.txt 0187119fd6d13a241a2b355a9160b3f1d48779ae3bb7d9380196a0ffe9d49a0f 181 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.4.0/LIZENZEN.txt
+neuigkeit 17.11.2026|Version 0.4.0: Werkzeuge, Leben und Hunger|30 Werkzeuge in 10 Stilen mit eigenen Werten, Haltbarkeit, Leben und Hunger, Fallschaden, Äpfel. Stein braucht jetzt eine Spitzhacke: erst Bretter zur Spielzeug-Spitzhacke verarbeiten.
 neuigkeit 17.11.2026|Version 0.3.3: Neue Farben|Die Welt hat ihre endgültige Grundpalette Ghibli-Sommer: sattes Gras, klares Wasser, warmes Holz.
 neuigkeit 17.11.2026|Version 0.3.2: Keine Spalten mehr an Stufen|Kanten werden nur noch gerundet, wo davor wirklich Platz ist, und Höhlen bleiben mindestens drei Blöcke unter der Oberfläche.
 neuigkeit 17.11.2026|Version 0.3.1: Saubere Ecken|Innenecken laufen jetzt als weiche Hohlkehle zusammen, und am Fuß von Stufen und Säulen schimmert keine Erde mehr durch.
