@@ -1,9 +1,10 @@
-spiel_version 0.8.0
-launcher_version 1.0.0
-launcher Wingtale-Launcher.exe 3425b0da295dc2e73a09a846745b98306942cc2e1fd31da18f3542ac92f0e112 2345472 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.8.0/Wingtale-Launcher.exe
-datei Wingtale.exe d6e23382a280e11d4173b6f781972b1a509b8888dea7c43bb1d826081439b568 2796032 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.8.0/Wingtale.exe
-datei hintergrund.png 59ac3dd30cc45a587fd20412901cd378e2766726cd5bafa1ce0b64d474253555 219128 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.8.0/hintergrund.png
-datei LIZENZEN.txt 4015dd27e47b27d91563e4e6ff6b82af5c1a5299e6df5832c34724d78ab8284d 477 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.8.0/LIZENZEN.txt
+spiel_version 0.8.1
+launcher_version 1.1.0
+launcher Wingtale-Launcher.exe 4ebb6d59f2e6ff4aa1ca69f637dd75e513062ec8c1cf9fd6bfa4a4a15e069671 2345984 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.8.1/Wingtale-Launcher.exe
+datei Wingtale.exe 143e2c23a66f6247326efe5e916adba40ae8bda03b1045e86ffb71467924548c 2797056 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.8.1/Wingtale.exe
+datei hintergrund.png 59ac3dd30cc45a587fd20412901cd378e2766726cd5bafa1ce0b64d474253555 219128 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.8.1/hintergrund.png
+datei LIZENZEN.txt 4015dd27e47b27d91563e4e6ff6b82af5c1a5299e6df5832c34724d78ab8284d 477 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.8.1/LIZENZEN.txt
+neuigkeit 17.11.2026|Version 0.8.1: Neuer Launcher|Der Launcher zeigt jetzt ein großes Bild der Welt. Weiterspielen bringt dich direkt in deine letzte Welt, dazu Neuigkeiten, Link teilen, Fehler melden und unter Mehr: Reparieren, Spielstände sichern, Spielordner öffnen und Deinstallieren. Welten und Einstellungen findest du jetzt im Spiel.
 neuigkeit 17.11.2026|Version 0.8.0: Menüs im Spiel|Neues Hauptmenü über deiner letzten Welt, Esc-Menü mit Weiterspielen, Einstellungen, Steuerung und Speichern. Welten lassen sich jetzt im Spiel anlegen, umbenennen und löschen. Neue Einstellungen: Sichtfeld, Farbfilter (30 Paletten), Wolken, Kopfwippen.
 neuigkeit 17.11.2026|Version 0.7.0: Werkbank, Ofen und neue Bäume|Werkzeuge entstehen jetzt an der Werkbank, Barren, Glas und Braten am Ofen. Je 12 Werkbänke und Öfen. In neuen Gebieten wachsen 12 Baumarten mit Blattfarben je Biom.
 neuigkeit 17.11.2026|Version 0.6.1: Sugi|Dein Gleitbeutler hat jetzt einen Namen: Sugi.
@@ -11,4 +12,3 @@ neuigkeit 17.11.2026|Version 0.6.0: Tiere und Nachtgegner|12 runde Tiere je nach
 neuigkeit 17.11.2026|Version 0.5.0: Fackeln und Licht|Höhlen sind jetzt wirklich dunkel. 11 Fackelarten als eigene Rezepte, stehend oder an der Wand. Die einfache Fackel: 1 Stock + 1 Kohle = 4 Fackeln.
 neuigkeit 17.11.2026|Version 0.4.0: Werkzeuge, Leben und Hunger|30 Werkzeuge in 10 Stilen mit eigenen Werten, Haltbarkeit, Leben und Hunger, Fallschaden, Äpfel. Stein braucht jetzt eine Spitzhacke: erst Bretter zur Spielzeug-Spitzhacke verarbeiten.
 neuigkeit 17.11.2026|Version 0.3.3: Neue Farben|Die Welt hat ihre endgültige Grundpalette Ghibli-Sommer: sattes Gras, klares Wasser, warmes Holz.
-neuigkeit 17.11.2026|Version 0.3.2: Keine Spalten mehr an Stufen|Kanten werden nur noch gerundet, wo davor wirklich Platz ist, und Höhlen bleiben mindestens drei Blöcke unter der Oberfläche.
