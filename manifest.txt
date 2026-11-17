@@ -1,9 +1,10 @@
-spiel_version 0.3.2
+spiel_version 0.3.3
 launcher_version 1.0.0
-launcher Wingtale-Launcher.exe c7cd2ba2c7ed0dbb0ec585dd41927552a0c69fb61c5465a955417e88c9d926b5 2345472 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.3.2/Wingtale-Launcher.exe
-datei Wingtale.exe f8663562f3abf8a7f3ed89296e4c699254863ca8bfa566c543f1be5f85c96ef7 2543104 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.3.2/Wingtale.exe
-datei hintergrund.png 9630e4b00e4bfc1bdf659edfee97b792f35e996f2f04e7a1f3cf1309a4b99d86 214654 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.3.2/hintergrund.png
-datei LIZENZEN.txt 0187119fd6d13a241a2b355a9160b3f1d48779ae3bb7d9380196a0ffe9d49a0f 181 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.3.2/LIZENZEN.txt
+launcher Wingtale-Launcher.exe 97bf340316fb72a7178587ac51236dae040829d460cf82680a8f1ad9b6948176 2345472 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.3.3/Wingtale-Launcher.exe
+datei Wingtale.exe e4d62f7170d9c8c19aabc14cfad00086e94163a82987378a3f0d18fc9bf824a1 2554880 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.3.3/Wingtale.exe
+datei hintergrund.png 59ac3dd30cc45a587fd20412901cd378e2766726cd5bafa1ce0b64d474253555 219128 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.3.3/hintergrund.png
+datei LIZENZEN.txt 0187119fd6d13a241a2b355a9160b3f1d48779ae3bb7d9380196a0ffe9d49a0f 181 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.3.3/LIZENZEN.txt
+neuigkeit 17.11.2026|Version 0.3.3: Neue Farben|Die Welt hat ihre endgültige Grundpalette Ghibli-Sommer: sattes Gras, klares Wasser, warmes Holz.
 neuigkeit 17.11.2026|Version 0.3.2: Keine Spalten mehr an Stufen|Kanten werden nur noch gerundet, wo davor wirklich Platz ist, und Höhlen bleiben mindestens drei Blöcke unter der Oberfläche.
 neuigkeit 17.11.2026|Version 0.3.1: Saubere Ecken|Innenecken laufen jetzt als weiche Hohlkehle zusammen, und am Fuß von Stufen und Säulen schimmert keine Erde mehr durch.
 neuigkeit 17.11.2026|Version 0.3.0: Inventar & Herstellen|Survival-Modus mit Abbauzeit, Items zum Einsammeln, Inventar, Rezeptliste und der neue Launcher mit Auto-Update.
