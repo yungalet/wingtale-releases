@@ -1,9 +1,10 @@
-spiel_version 0.4.0
+spiel_version 0.5.0
 launcher_version 1.0.0
-launcher Wingtale-Launcher.exe 6162c13ea674de44fc08723523d1bdb3f4a996002e55da0197af3352d20144f7 2345472 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.4.0/Wingtale-Launcher.exe
-datei Wingtale.exe 5e9eb2268029d78046129466c338b179a5f36af43abfd62b68b42bb9443b4d35 2585600 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.4.0/Wingtale.exe
-datei hintergrund.png 59ac3dd30cc45a587fd20412901cd378e2766726cd5bafa1ce0b64d474253555 219128 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.4.0/hintergrund.png
-datei LIZENZEN.txt 0187119fd6d13a241a2b355a9160b3f1d48779ae3bb7d9380196a0ffe9d49a0f 181 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.4.0/LIZENZEN.txt
+launcher Wingtale-Launcher.exe 0e8e3b2d2a3d1153234bcdead61a945b985b81f5d7c1ab57b8756160485aa520 2345472 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.5.0/Wingtale-Launcher.exe
+datei Wingtale.exe 92a9eebf73c3a8913b403f7861b4cdbb5226b28733450fc8b7e12838b0bdaf18 2616832 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.5.0/Wingtale.exe
+datei hintergrund.png 59ac3dd30cc45a587fd20412901cd378e2766726cd5bafa1ce0b64d474253555 219128 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.5.0/hintergrund.png
+datei LIZENZEN.txt 0187119fd6d13a241a2b355a9160b3f1d48779ae3bb7d9380196a0ffe9d49a0f 181 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.5.0/LIZENZEN.txt
+neuigkeit 17.11.2026|Version 0.5.0: Fackeln und Licht|Höhlen sind jetzt wirklich dunkel. 11 Fackelarten als eigene Rezepte, stehend oder an der Wand. Die einfache Fackel: 1 Stock + 1 Kohle = 4 Fackeln.
 neuigkeit 17.11.2026|Version 0.4.0: Werkzeuge, Leben und Hunger|30 Werkzeuge in 10 Stilen mit eigenen Werten, Haltbarkeit, Leben und Hunger, Fallschaden, Äpfel. Stein braucht jetzt eine Spitzhacke: erst Bretter zur Spielzeug-Spitzhacke verarbeiten.
 neuigkeit 17.11.2026|Version 0.3.3: Neue Farben|Die Welt hat ihre endgültige Grundpalette Ghibli-Sommer: sattes Gras, klares Wasser, warmes Holz.
 neuigkeit 17.11.2026|Version 0.3.2: Keine Spalten mehr an Stufen|Kanten werden nur noch gerundet, wo davor wirklich Platz ist, und Höhlen bleiben mindestens drei Blöcke unter der Oberfläche.
