@@ -1,7 +1,7 @@
 spiel_version 0.3.0
 launcher_version 1.0.0
-launcher Wingtale-Launcher.exe d4085f875afddbb8227d5bac5a6d757b13168ec9b893dd5bc75b605175c359c0 2345984 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.3.0/Wingtale-Launcher.exe
-datei Wingtale.exe 628f53f2bf59348ec82a4047c6ccfa3a492e87529f197cac6b0675b24d4840a3 2540032 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.3.0/Wingtale.exe
+launcher Wingtale-Launcher.exe 03f7ca6dd20c1decfd4644cb5fa28a88e7578ae819ac8529887fe2c116bbfa97 2345472 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.3.0/Wingtale-Launcher.exe
+datei Wingtale.exe b074b3d625e89b0dcac0eacb78ababfa2c6a41fd5116f67d36d0c83ba6451e20 2540032 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.3.0/Wingtale.exe
 datei hintergrund.png 9630e4b00e4bfc1bdf659edfee97b792f35e996f2f04e7a1f3cf1309a4b99d86 214654 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.3.0/hintergrund.png
 datei LIZENZEN.txt 0187119fd6d13a241a2b355a9160b3f1d48779ae3bb7d9380196a0ffe9d49a0f 181 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.3.0/LIZENZEN.txt
 neuigkeit 17.11.2026|Version 0.3.0: Inventar & Herstellen|Survival-Modus mit Abbauzeit, Items zum Einsammeln, Inventar, Rezeptliste und der neue Launcher mit Auto-Update.
