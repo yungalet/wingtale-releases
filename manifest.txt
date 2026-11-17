@@ -1,0 +1,9 @@
+spiel_version 0.3.0
+launcher_version 1.0.0
+launcher Wingtale-Launcher.exe d4085f875afddbb8227d5bac5a6d757b13168ec9b893dd5bc75b605175c359c0 2345984 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.3.0/Wingtale-Launcher.exe
+datei Wingtale.exe 628f53f2bf59348ec82a4047c6ccfa3a492e87529f197cac6b0675b24d4840a3 2540032 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.3.0/Wingtale.exe
+datei hintergrund.png 9630e4b00e4bfc1bdf659edfee97b792f35e996f2f04e7a1f3cf1309a4b99d86 214654 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.3.0/hintergrund.png
+datei LIZENZEN.txt 0187119fd6d13a241a2b355a9160b3f1d48779ae3bb7d9380196a0ffe9d49a0f 181 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.3.0/LIZENZEN.txt
+neuigkeit 17.11.2026|Version 0.3.0: Inventar & Herstellen|Survival-Modus mit Abbauzeit, Items zum Einsammeln, Inventar, Rezeptliste und der neue Launcher mit Auto-Update.
+neuigkeit 17.11.2026|Version 0.2: Himmel & Biome|Tag-Nacht-Wechsel, Wattewolken, abgerundete Blöcke, Wüste, Schneeland, Höhlen und Erze.
+neuigkeit 17.11.2026|Version 0.1: Dein Gleitbeutler ist da|Ein Begleiter, der neben dir herfliegt, vorausfliegt, wartet und Bäumen ausweicht.
