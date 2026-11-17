@@ -1,0 +1,2 @@
+Schrift Comfortaa: Copyright 2008-2017 Johan Aakerlund, SIL Open Font License 1.1 (https://openfontlicense.org)
+Grafikbibliothek raylib: Copyright (c) Ramon Santamaria, zlib-Lizenz
