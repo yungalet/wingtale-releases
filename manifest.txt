@@ -1,9 +1,10 @@
-spiel_version 0.8.2
+spiel_version 0.9.0
 launcher_version 1.2.0
-launcher Wingtale-Launcher.exe 69ff2af934e590efa5c33e653a687fd944c5e0932dbcb7ef5c06e4932dc3bad1 2350592 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.8.2/Wingtale-Launcher.exe
-datei Wingtale.exe f7f304d33ede0172776046294fd7b3e1eaeddaf6e711fea9bd0c30cfea2b1ca5 2799616 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.8.2/Wingtale.exe
-datei hintergrund.png 59ac3dd30cc45a587fd20412901cd378e2766726cd5bafa1ce0b64d474253555 219128 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.8.2/hintergrund.png
-datei LIZENZEN.txt 4015dd27e47b27d91563e4e6ff6b82af5c1a5299e6df5832c34724d78ab8284d 477 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.8.2/LIZENZEN.txt
+launcher Wingtale-Launcher.exe da568dce9d388cd36dbc8ebe6863240fa8331b0b3108f329dd80bfb10a63a7d5 2350592 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.0/Wingtale-Launcher.exe
+datei Wingtale.exe d1188e8c50b9827711ffa1961b674c3caf56e4f4d68b6354ccb1698ed6e4cdc4 2823168 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.0/Wingtale.exe
+datei hintergrund.png 59ac3dd30cc45a587fd20412901cd378e2766726cd5bafa1ce0b64d474253555 219128 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.0/hintergrund.png
+datei LIZENZEN.txt 4015dd27e47b27d91563e4e6ff6b82af5c1a5299e6df5832c34724d78ab8284d 477 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.0/LIZENZEN.txt
+neuigkeit 17.11.2026|Version 0.9.0: Ofen mit Feuer und Werkzeug in der Hand|Du siehst jetzt deine Hand mit Werkzeug, Fackel oder Block. Öfen öffnest du mit Rechtsklick: Brennstoff einlegen (Kohle, Holz, Stöcke), Rezept auswählen, und der Ofen arbeitet die Liste ab, auch wenn du weggehst. Barren und Glas brauchen keine Kohle mehr als Zutat, sondern Brennstoff im Ofen.
 neuigkeit 17.11.2026|Version 0.8.2: Sugi bringt dir Sachen|Sugi sammelt jetzt Gegenstände ein, die herumliegen, und bringt sie dir. Was du absichtlich wegwirfst, lässt er liegen. Im Launcher kannst du unter Mehr eine Sicherung wiederherstellen.
 neuigkeit 17.11.2026|Version 0.8.1: Neuer Launcher|Der Launcher zeigt jetzt ein großes Bild der Welt. Weiterspielen bringt dich direkt in deine letzte Welt, dazu Neuigkeiten, Link teilen, Fehler melden und unter Mehr: Reparieren, Spielstände sichern, Spielordner öffnen und Deinstallieren. Welten und Einstellungen findest du jetzt im Spiel.
 neuigkeit 17.11.2026|Version 0.8.0: Menüs im Spiel|Neues Hauptmenü über deiner letzten Welt, Esc-Menü mit Weiterspielen, Einstellungen, Steuerung und Speichern. Welten lassen sich jetzt im Spiel anlegen, umbenennen und löschen. Neue Einstellungen: Sichtfeld, Farbfilter (30 Paletten), Wolken, Kopfwippen.
@@ -11,4 +12,3 @@ neuigkeit 17.11.2026|Version 0.7.0: Werkbank, Ofen und neue Bäume|Werkzeuge ent
 neuigkeit 17.11.2026|Version 0.6.1: Sugi|Dein Gleitbeutler hat jetzt einen Namen: Sugi.
 neuigkeit 17.11.2026|Version 0.6.0: Tiere und Nachtgegner|12 runde Tiere je nach Biom und 12 Gegner, die im Dunkeln auftauchen. Linksklick greift an, Fackeln halten Gegner fern. H: Pip wartet oder folgt.
 neuigkeit 17.11.2026|Version 0.5.0: Fackeln und Licht|Höhlen sind jetzt wirklich dunkel. 11 Fackelarten als eigene Rezepte, stehend oder an der Wand. Die einfache Fackel: 1 Stock + 1 Kohle = 4 Fackeln.
-neuigkeit 17.11.2026|Version 0.4.0: Werkzeuge, Leben und Hunger|30 Werkzeuge in 10 Stilen mit eigenen Werten, Haltbarkeit, Leben und Hunger, Fallschaden, Äpfel. Stein braucht jetzt eine Spitzhacke: erst Bretter zur Spielzeug-Spitzhacke verarbeiten.
