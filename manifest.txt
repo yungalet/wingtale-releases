@@ -1,9 +1,10 @@
-spiel_version 0.6.1
+spiel_version 0.7.0
 launcher_version 1.0.0
-launcher Wingtale-Launcher.exe a0c31882600f14db1d9482ae0f30a7e71ca8998904576e9c36ff008822c2eef3 2345472 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.6.1/Wingtale-Launcher.exe
-datei Wingtale.exe 4e1c615fe2051bb5b20372a9f5211148296ac995d97550d82a0717e1edfc52c2 2686464 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.6.1/Wingtale.exe
-datei hintergrund.png 59ac3dd30cc45a587fd20412901cd378e2766726cd5bafa1ce0b64d474253555 219128 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.6.1/hintergrund.png
-datei LIZENZEN.txt 0187119fd6d13a241a2b355a9160b3f1d48779ae3bb7d9380196a0ffe9d49a0f 181 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.6.1/LIZENZEN.txt
+launcher Wingtale-Launcher.exe cf4f8d1b69e0d5ca52a843bb8cd66b8b4c0fdeaf641b2cdfe7b7a90b221f7631 2345472 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.7.0/Wingtale-Launcher.exe
+datei Wingtale.exe 2e4a9eef342da25378d2b852ca14f4743cd9f7424bc2fd469446442ae41fe78f 2743296 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.7.0/Wingtale.exe
+datei hintergrund.png 59ac3dd30cc45a587fd20412901cd378e2766726cd5bafa1ce0b64d474253555 219128 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.7.0/hintergrund.png
+datei LIZENZEN.txt 0187119fd6d13a241a2b355a9160b3f1d48779ae3bb7d9380196a0ffe9d49a0f 181 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.7.0/LIZENZEN.txt
+neuigkeit 17.11.2026|Version 0.7.0: Werkbank, Ofen und neue Bäume|Werkzeuge entstehen jetzt an der Werkbank, Barren, Glas und Braten am Ofen. Je 12 Werkbänke und Öfen. In neuen Gebieten wachsen 12 Baumarten mit Blattfarben je Biom.
 neuigkeit 17.11.2026|Version 0.6.1: Sugi|Dein Gleitbeutler hat jetzt einen Namen: Sugi.
 neuigkeit 17.11.2026|Version 0.6.0: Tiere und Nachtgegner|12 runde Tiere je nach Biom und 12 Gegner, die im Dunkeln auftauchen. Linksklick greift an, Fackeln halten Gegner fern. H: Pip wartet oder folgt.
 neuigkeit 17.11.2026|Version 0.5.0: Fackeln und Licht|Höhlen sind jetzt wirklich dunkel. 11 Fackelarten als eigene Rezepte, stehend oder an der Wand. Die einfache Fackel: 1 Stock + 1 Kohle = 4 Fackeln.
@@ -11,4 +12,3 @@ neuigkeit 17.11.2026|Version 0.4.0: Werkzeuge, Leben und Hunger|30 Werkzeuge in 
 neuigkeit 17.11.2026|Version 0.3.3: Neue Farben|Die Welt hat ihre endgültige Grundpalette Ghibli-Sommer: sattes Gras, klares Wasser, warmes Holz.
 neuigkeit 17.11.2026|Version 0.3.2: Keine Spalten mehr an Stufen|Kanten werden nur noch gerundet, wo davor wirklich Platz ist, und Höhlen bleiben mindestens drei Blöcke unter der Oberfläche.
 neuigkeit 17.11.2026|Version 0.3.1: Saubere Ecken|Innenecken laufen jetzt als weiche Hohlkehle zusammen, und am Fuß von Stufen und Säulen schimmert keine Erde mehr durch.
-neuigkeit 17.11.2026|Version 0.3.0: Inventar & Herstellen|Survival-Modus mit Abbauzeit, Items zum Einsammeln, Inventar, Rezeptliste und der neue Launcher mit Auto-Update.
