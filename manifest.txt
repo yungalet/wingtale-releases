@@ -1,9 +1,10 @@
-spiel_version 0.5.0
+spiel_version 0.6.0
 launcher_version 1.0.0
-launcher Wingtale-Launcher.exe 0e8e3b2d2a3d1153234bcdead61a945b985b81f5d7c1ab57b8756160485aa520 2345472 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.5.0/Wingtale-Launcher.exe
-datei Wingtale.exe 92a9eebf73c3a8913b403f7861b4cdbb5226b28733450fc8b7e12838b0bdaf18 2616832 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.5.0/Wingtale.exe
-datei hintergrund.png 59ac3dd30cc45a587fd20412901cd378e2766726cd5bafa1ce0b64d474253555 219128 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.5.0/hintergrund.png
-datei LIZENZEN.txt 0187119fd6d13a241a2b355a9160b3f1d48779ae3bb7d9380196a0ffe9d49a0f 181 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.5.0/LIZENZEN.txt
+launcher Wingtale-Launcher.exe b2cfd8f6e8b8436e7fe49aeaa95d1c421a7f97506c3677b8d0ec8eda7929d8af 2345472 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.6.0/Wingtale-Launcher.exe
+datei Wingtale.exe a688c7f2504e96ed847870d350a9d79c1a102711e3397ca801bc676962228ba4 2686464 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.6.0/Wingtale.exe
+datei hintergrund.png 59ac3dd30cc45a587fd20412901cd378e2766726cd5bafa1ce0b64d474253555 219128 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.6.0/hintergrund.png
+datei LIZENZEN.txt 0187119fd6d13a241a2b355a9160b3f1d48779ae3bb7d9380196a0ffe9d49a0f 181 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.6.0/LIZENZEN.txt
+neuigkeit 17.11.2026|Version 0.6.0: Tiere und Nachtgegner|12 runde Tiere je nach Biom und 12 Gegner, die im Dunkeln auftauchen. Linksklick greift an, Fackeln halten Gegner fern. H: Pip wartet oder folgt.
 neuigkeit 17.11.2026|Version 0.5.0: Fackeln und Licht|Höhlen sind jetzt wirklich dunkel. 11 Fackelarten als eigene Rezepte, stehend oder an der Wand. Die einfache Fackel: 1 Stock + 1 Kohle = 4 Fackeln.
 neuigkeit 17.11.2026|Version 0.4.0: Werkzeuge, Leben und Hunger|30 Werkzeuge in 10 Stilen mit eigenen Werten, Haltbarkeit, Leben und Hunger, Fallschaden, Äpfel. Stein braucht jetzt eine Spitzhacke: erst Bretter zur Spielzeug-Spitzhacke verarbeiten.
 neuigkeit 17.11.2026|Version 0.3.3: Neue Farben|Die Welt hat ihre endgültige Grundpalette Ghibli-Sommer: sattes Gras, klares Wasser, warmes Holz.
@@ -11,4 +12,3 @@ neuigkeit 17.11.2026|Version 0.3.2: Keine Spalten mehr an Stufen|Kanten werden n
 neuigkeit 17.11.2026|Version 0.3.1: Saubere Ecken|Innenecken laufen jetzt als weiche Hohlkehle zusammen, und am Fuß von Stufen und Säulen schimmert keine Erde mehr durch.
 neuigkeit 17.11.2026|Version 0.3.0: Inventar & Herstellen|Survival-Modus mit Abbauzeit, Items zum Einsammeln, Inventar, Rezeptliste und der neue Launcher mit Auto-Update.
 neuigkeit 17.11.2026|Version 0.2: Himmel & Biome|Tag-Nacht-Wechsel, Wattewolken, abgerundete Blöcke, Wüste, Schneeland, Höhlen und Erze.
-neuigkeit 17.11.2026|Version 0.1: Dein Gleitbeutler ist da|Ein Begleiter, der neben dir herfliegt, vorausfliegt, wartet und Bäumen ausweicht.
