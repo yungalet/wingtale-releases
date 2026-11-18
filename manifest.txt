@@ -1,9 +1,10 @@
-spiel_version 0.9.1
+spiel_version 0.9.2
 launcher_version 1.2.0
-launcher Wingtale-Launcher.exe 1c9b9756e5c770f2316b760f992707f84bdf6ee9c7d833bf4265cb4de898b851 2350592 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.1/Wingtale-Launcher.exe
-datei Wingtale.exe d4627a1d9d996bb4225f6c518e5ab3da5c58650c7c45fe8bc3fff582c84abac8 2839040 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.1/Wingtale.exe
-datei hintergrund.png 59ac3dd30cc45a587fd20412901cd378e2766726cd5bafa1ce0b64d474253555 219128 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.1/hintergrund.png
-datei LIZENZEN.txt 4015dd27e47b27d91563e4e6ff6b82af5c1a5299e6df5832c34724d78ab8284d 477 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.1/LIZENZEN.txt
+launcher Wingtale-Launcher.exe b17dfdb816686459040757c195980258263b10ce1ae2a0d372175df31b51c4b7 2350592 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.2/Wingtale-Launcher.exe
+datei Wingtale.exe 9f4aa2a959f9a67dadeed1b396e4f804c05586d71a5064d65b77da3a7564b8b6 2847744 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.2/Wingtale.exe
+datei hintergrund.png 59ac3dd30cc45a587fd20412901cd378e2766726cd5bafa1ce0b64d474253555 219128 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.2/hintergrund.png
+datei LIZENZEN.txt 4015dd27e47b27d91563e4e6ff6b82af5c1a5299e6df5832c34724d78ab8284d 477 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.2/LIZENZEN.txt
+neuigkeit 18.11.2026|Version 0.9.2: Fotomodus und Sugis Spürnase|Mit P startest du den Fotomodus: freie Kamera, die Zeit steht still, Klick macht ein Foto. Sugi spürt jetzt Erze in deiner Nähe auf und zeigt dir, wo du graben musst. Fackeln und Kerzen an der Wand hängen wieder richtig herum.
 neuigkeit 18.11.2026|Version 0.9.1: Bäume fällen und gedrehte Werkzeuge|Schlägst du den untersten Stamm eines Baums ab, kippt der ganze Baum um und lässt seine Stämme fallen. Werkzeuge hältst du jetzt mit dem Kopf nach vorn, und der Schlag geht richtig nach vorn.
 neuigkeit 17.11.2026|Version 0.9.0: Ofen mit Feuer und Werkzeug in der Hand|Du siehst jetzt deine Hand mit Werkzeug, Fackel oder Block. Öfen öffnest du mit Rechtsklick: Brennstoff einlegen (Kohle, Holz, Stöcke), Rezept auswählen, und der Ofen arbeitet die Liste ab, auch wenn du weggehst. Barren und Glas brauchen keine Kohle mehr als Zutat, sondern Brennstoff im Ofen.
 neuigkeit 17.11.2026|Version 0.8.2: Sugi bringt dir Sachen|Sugi sammelt jetzt Gegenstände ein, die herumliegen, und bringt sie dir. Was du absichtlich wegwirfst, lässt er liegen. Im Launcher kannst du unter Mehr eine Sicherung wiederherstellen.
@@ -11,4 +12,3 @@ neuigkeit 17.11.2026|Version 0.8.1: Neuer Launcher|Der Launcher zeigt jetzt ein 
 neuigkeit 17.11.2026|Version 0.8.0: Menüs im Spiel|Neues Hauptmenü über deiner letzten Welt, Esc-Menü mit Weiterspielen, Einstellungen, Steuerung und Speichern. Welten lassen sich jetzt im Spiel anlegen, umbenennen und löschen. Neue Einstellungen: Sichtfeld, Farbfilter (30 Paletten), Wolken, Kopfwippen.
 neuigkeit 17.11.2026|Version 0.7.0: Werkbank, Ofen und neue Bäume|Werkzeuge entstehen jetzt an der Werkbank, Barren, Glas und Braten am Ofen. Je 12 Werkbänke und Öfen. In neuen Gebieten wachsen 12 Baumarten mit Blattfarben je Biom.
 neuigkeit 17.11.2026|Version 0.6.1: Sugi|Dein Gleitbeutler hat jetzt einen Namen: Sugi.
-neuigkeit 17.11.2026|Version 0.6.0: Tiere und Nachtgegner|12 runde Tiere je nach Biom und 12 Gegner, die im Dunkeln auftauchen. Linksklick greift an, Fackeln halten Gegner fern. H: Pip wartet oder folgt.
