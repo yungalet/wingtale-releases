@@ -1,9 +1,10 @@
-spiel_version 0.9.3
+spiel_version 0.9.4
 launcher_version 1.2.0
-launcher Wingtale-Launcher.exe da86686d1727c88e1a15f516f3e6e7d07fb8bf7cd07ae32b24aeec179b4756f9 2350592 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.3/Wingtale-Launcher.exe
-datei Wingtale.exe fa580559665cc0e34d8346bc045fcd83745135aa357044cc70efde270f646b3a 2861568 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.3/Wingtale.exe
-datei hintergrund.png 59ac3dd30cc45a587fd20412901cd378e2766726cd5bafa1ce0b64d474253555 219128 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.3/hintergrund.png
-datei LIZENZEN.txt 4015dd27e47b27d91563e4e6ff6b82af5c1a5299e6df5832c34724d78ab8284d 477 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.3/LIZENZEN.txt
+launcher Wingtale-Launcher.exe 7de83b9a3c4b3173241060ab8fa8400773ec8bb13196a2b0b83362c819d0baec 2350592 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.4/Wingtale-Launcher.exe
+datei Wingtale.exe be9d1ebb19a537fd4b9da7558e977ac9b219a468c2dc9a73389b6185f4b0181c 2862080 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.4/Wingtale.exe
+datei hintergrund.png 59ac3dd30cc45a587fd20412901cd378e2766726cd5bafa1ce0b64d474253555 219128 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.4/hintergrund.png
+datei LIZENZEN.txt 4015dd27e47b27d91563e4e6ff6b82af5c1a5299e6df5832c34724d78ab8284d 477 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.4/LIZENZEN.txt
+neuigkeit 18.11.2026|Version 0.9.4: Schaufel umgedreht|Die Schaufel hältst du jetzt mit dem Blatt nach oben.
 neuigkeit 18.11.2026|Version 0.9.3: Himmelswale|Über den Himmel ziehen jetzt Himmelswale: zwölf Arten von häufig bis sehr selten, manche nur nachts. Seltene Sichtungen werden dir gemeldet. Halte nachts Ausschau nach dem Sternenwal!
 neuigkeit 18.11.2026|Version 0.9.2: Fotomodus und Sugis Spürnase|Mit P startest du den Fotomodus: freie Kamera, die Zeit steht still, Klick macht ein Foto. Sugi spürt jetzt Erze in deiner Nähe auf und zeigt dir, wo du graben musst. Fackeln und Kerzen an der Wand hängen wieder richtig herum.
 neuigkeit 18.11.2026|Version 0.9.1: Bäume fällen und gedrehte Werkzeuge|Schlägst du den untersten Stamm eines Baums ab, kippt der ganze Baum um und lässt seine Stämme fallen. Werkzeuge hältst du jetzt mit dem Kopf nach vorn, und der Schlag geht richtig nach vorn.
@@ -11,4 +12,3 @@ neuigkeit 17.11.2026|Version 0.9.0: Ofen mit Feuer und Werkzeug in der Hand|Du s
 neuigkeit 17.11.2026|Version 0.8.2: Sugi bringt dir Sachen|Sugi sammelt jetzt Gegenstände ein, die herumliegen, und bringt sie dir. Was du absichtlich wegwirfst, lässt er liegen. Im Launcher kannst du unter Mehr eine Sicherung wiederherstellen.
 neuigkeit 17.11.2026|Version 0.8.1: Neuer Launcher|Der Launcher zeigt jetzt ein großes Bild der Welt. Weiterspielen bringt dich direkt in deine letzte Welt, dazu Neuigkeiten, Link teilen, Fehler melden und unter Mehr: Reparieren, Spielstände sichern, Spielordner öffnen und Deinstallieren. Welten und Einstellungen findest du jetzt im Spiel.
 neuigkeit 17.11.2026|Version 0.8.0: Menüs im Spiel|Neues Hauptmenü über deiner letzten Welt, Esc-Menü mit Weiterspielen, Einstellungen, Steuerung und Speichern. Welten lassen sich jetzt im Spiel anlegen, umbenennen und löschen. Neue Einstellungen: Sichtfeld, Farbfilter (30 Paletten), Wolken, Kopfwippen.
-neuigkeit 17.11.2026|Version 0.7.0: Werkbank, Ofen und neue Bäume|Werkzeuge entstehen jetzt an der Werkbank, Barren, Glas und Braten am Ofen. Je 12 Werkbänke und Öfen. In neuen Gebieten wachsen 12 Baumarten mit Blattfarben je Biom.
