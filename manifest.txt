@@ -1,9 +1,10 @@
-spiel_version 0.9.5
+spiel_version 0.9.6
 launcher_version 1.2.0
-launcher Wingtale-Launcher.exe a8f3d08eb01410c71da27eccefa31bdef02a219d12e464f7c742fab28b42cb3c 2350592 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.5/Wingtale-Launcher.exe
-datei Wingtale.exe bd118d640be019db2eac82b01f8d218bebe9d16c82d4c5c2aa315ac23c587251 2866176 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.5/Wingtale.exe
-datei hintergrund.png 59ac3dd30cc45a587fd20412901cd378e2766726cd5bafa1ce0b64d474253555 219128 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.5/hintergrund.png
-datei LIZENZEN.txt 4015dd27e47b27d91563e4e6ff6b82af5c1a5299e6df5832c34724d78ab8284d 477 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.5/LIZENZEN.txt
+launcher Wingtale-Launcher.exe 475008a5b168a1144cf89654632b6cc80b4dbb1f841a3bc51c965224649f58f3 2350592 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.6/Wingtale-Launcher.exe
+datei Wingtale.exe 730cad9029d8a43df047c2fc6f3c407615badaf0a5b66e421ed0eeb566417f06 2877440 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.6/Wingtale.exe
+datei hintergrund.png 59ac3dd30cc45a587fd20412901cd378e2766726cd5bafa1ce0b64d474253555 219128 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.6/hintergrund.png
+datei LIZENZEN.txt 4015dd27e47b27d91563e4e6ff6b82af5c1a5299e6df5832c34724d78ab8284d 477 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.6/LIZENZEN.txt
+neuigkeit 18.11.2026|Version 0.9.6: Zwölf neue Erze|Unter der Erde warten jetzt zwölf neue Erze: von Kupfer und Zinn bis zu Aetherit, Nachtmetall und dem sehr seltenen Sternenherz. Je tiefer du gräbst, desto seltener und wertvoller wird es; manche leuchten im Dunkeln. Kupfer, Zinn, Silber und Nachtmetall schmilzt du im Ofen zu Barren, und es gibt Kupfer-Werkzeuge.
 neuigkeit 18.11.2026|Version 0.9.5: Kälte|Nachts, im Schnee, auf Bergen und im Wasser wird dir kalt. Das Thermometer rechts zeigt, wie kalt dir ist: Warm, Kühl, Kalt oder Erfrierend. Fackeln und brennende Öfen wärmen dich. Wer erfriert, verliert langsam Leben.
 neuigkeit 18.11.2026|Version 0.9.4: Schaufel umgedreht|Die Schaufel hältst du jetzt mit dem Blatt nach oben.
 neuigkeit 18.11.2026|Version 0.9.3: Himmelswale|Über den Himmel ziehen jetzt Himmelswale: zwölf Arten von häufig bis sehr selten, manche nur nachts. Seltene Sichtungen werden dir gemeldet. Halte nachts Ausschau nach dem Sternenwal!
@@ -11,4 +12,3 @@ neuigkeit 18.11.2026|Version 0.9.2: Fotomodus und Sugis Spürnase|Mit P startest
 neuigkeit 18.11.2026|Version 0.9.1: Bäume fällen und gedrehte Werkzeuge|Schlägst du den untersten Stamm eines Baums ab, kippt der ganze Baum um und lässt seine Stämme fallen. Werkzeuge hältst du jetzt mit dem Kopf nach vorn, und der Schlag geht richtig nach vorn.
 neuigkeit 17.11.2026|Version 0.9.0: Ofen mit Feuer und Werkzeug in der Hand|Du siehst jetzt deine Hand mit Werkzeug, Fackel oder Block. Öfen öffnest du mit Rechtsklick: Brennstoff einlegen (Kohle, Holz, Stöcke), Rezept auswählen, und der Ofen arbeitet die Liste ab, auch wenn du weggehst. Barren und Glas brauchen keine Kohle mehr als Zutat, sondern Brennstoff im Ofen.
 neuigkeit 17.11.2026|Version 0.8.2: Sugi bringt dir Sachen|Sugi sammelt jetzt Gegenstände ein, die herumliegen, und bringt sie dir. Was du absichtlich wegwirfst, lässt er liegen. Im Launcher kannst du unter Mehr eine Sicherung wiederherstellen.
-neuigkeit 17.11.2026|Version 0.8.1: Neuer Launcher|Der Launcher zeigt jetzt ein großes Bild der Welt. Weiterspielen bringt dich direkt in deine letzte Welt, dazu Neuigkeiten, Link teilen, Fehler melden und unter Mehr: Reparieren, Spielstände sichern, Spielordner öffnen und Deinstallieren. Welten und Einstellungen findest du jetzt im Spiel.
