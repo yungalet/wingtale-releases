@@ -1,9 +1,10 @@
-spiel_version 0.9.8
+spiel_version 0.9.9
 launcher_version 1.2.0
-launcher Wingtale-Launcher.exe fb7b759d1338072a372963d484c75cdfe6229ff1f0a5a2e87a7cbb84ce04fa94 2350592 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.8/Wingtale-Launcher.exe
-datei Wingtale.exe 52d00351361d6f2605cc0223f9e380a5f5942a2d85c09f7fbeb3ae4ea74efe9a 2921984 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.8/Wingtale.exe
-datei hintergrund.png 59ac3dd30cc45a587fd20412901cd378e2766726cd5bafa1ce0b64d474253555 219128 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.8/hintergrund.png
-datei LIZENZEN.txt 4015dd27e47b27d91563e4e6ff6b82af5c1a5299e6df5832c34724d78ab8284d 477 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.8/LIZENZEN.txt
+launcher Wingtale-Launcher.exe efcdf0877f4c260b2357d120b58db60c5cfb373b755a76514255a7a4a188778b 2350592 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.9/Wingtale-Launcher.exe
+datei Wingtale.exe a78095a64b66e8e1b59a12d3f24d6813f00028e5eeeb3006ddf1fec3f607288a 2981376 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.9/Wingtale.exe
+datei hintergrund.png 59ac3dd30cc45a587fd20412901cd378e2766726cd5bafa1ce0b64d474253555 219128 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.9/hintergrund.png
+datei LIZENZEN.txt 4015dd27e47b27d91563e4e6ff6b82af5c1a5299e6df5832c34724d78ab8284d 477 https://raw.githubusercontent.com/yungalet/wingtale-releases/main/dateien/0.9.9/LIZENZEN.txt
+neuigkeit 18.11.2026|Version 0.9.9: Tagebuch|Neu: das Tagebuch (Taste J oder im Pausenmenü). Es sammelt Erze, Himmelswale, Orte, Tiere und Wesen sowie Jahreszeiten, jeweils mit Bild, Beschreibung und Fundtag. Dazu 35 Errungenschaften mit Fortschrittsanzeige.
 neuigkeit 18.11.2026|Version 0.9.8: Jahreszeiten und Fußspuren|Die Welt durchläuft jetzt ein ganzes Jahr: Frühling mit Kirschblüte, Sommer, goldener und roter Herbst, Raureif und tiefer Winter. Jeder Abschnitt dauert einen Spieltag, im Winter wird es kälter. Im Schnee und im Sand hinterlässt du Fußspuren.
 neuigkeit 18.11.2026|Version 0.9.7: Sehenswürdigkeiten und Schatztruhen|In der Welt stehen jetzt zwölf Arten von Sehenswürdigkeiten: Steinkreise der Runen, Magiertürme, Königsgrüfte, Sonnentempel, Geisterschiffe, das Gerippe eines gefallenen Himmelswals und mehr. In jeder wartet eine Schatztruhe (Rechtsklick). Sie entstehen in Gegenden, die du noch nicht erkundet hast.
 neuigkeit 18.11.2026|Version 0.9.6: Zwölf neue Erze|Unter der Erde warten jetzt zwölf neue Erze: von Kupfer und Zinn bis zu Aetherit, Nachtmetall und dem sehr seltenen Sternenherz. Je tiefer du gräbst, desto seltener und wertvoller wird es; manche leuchten im Dunkeln. Kupfer, Zinn, Silber und Nachtmetall schmilzt du im Ofen zu Barren, und es gibt Kupfer-Werkzeuge.
@@ -11,4 +12,3 @@ neuigkeit 18.11.2026|Version 0.9.5: Kälte|Nachts, im Schnee, auf Bergen und im 
 neuigkeit 18.11.2026|Version 0.9.4: Schaufel umgedreht|Die Schaufel hältst du jetzt mit dem Blatt nach oben.
 neuigkeit 18.11.2026|Version 0.9.3: Himmelswale|Über den Himmel ziehen jetzt Himmelswale: zwölf Arten von häufig bis sehr selten, manche nur nachts. Seltene Sichtungen werden dir gemeldet. Halte nachts Ausschau nach dem Sternenwal!
 neuigkeit 18.11.2026|Version 0.9.2: Fotomodus und Sugis Spürnase|Mit P startest du den Fotomodus: freie Kamera, die Zeit steht still, Klick macht ein Foto. Sugi spürt jetzt Erze in deiner Nähe auf und zeigt dir, wo du graben musst. Fackeln und Kerzen an der Wand hängen wieder richtig herum.
-neuigkeit 18.11.2026|Version 0.9.1: Bäume fällen und gedrehte Werkzeuge|Schlägst du den untersten Stamm eines Baums ab, kippt der ganze Baum um und lässt seine Stämme fallen. Werkzeuge hältst du jetzt mit dem Kopf nach vorn, und der Schlag geht richtig nach vorn.
