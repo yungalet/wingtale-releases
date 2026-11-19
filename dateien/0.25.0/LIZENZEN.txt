@@ -1,0 +1,12 @@
+Wingtale – verwendete Fremdteile
+================================
+
+Schrift: Comfortaa
+Copyright 2011 The Comfortaa Project Authors (Johan Aakerlund)
+Lizenz: SIL Open Font License, Version 1.1 – https://openfontlicense.org
+
+Grafik und Fenster: raylib
+Copyright (c) 2013-2024 Ramon Santamaria (@raysan5)
+Lizenz: zlib/libpng – https://github.com/raysan5/raylib/blob/master/LICENSE
+
+Der zlib-Lizenz entsprechend: Diese Software wird ohne jede Gewährleistung bereitgestellt.
